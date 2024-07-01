@@ -1,5 +1,6 @@
-## Huffman Coding
+# Huffman Coding
 Huffman coding with python\
+
 Put your text in **f1.txt** and run the **huffman.py**.\
 the result will be in Terminal and **f2.txt**.\
 In huffman.py If you get this error  : " FileNotFoundError: No such file or directory ".\
