@@ -1,5 +1,5 @@
 # Huffman Coding
-Huffman coding with python\
+Huffman coding with python
 
 Put your text in **f1.txt** and run the **huffman.py**.\
 the result will be in Terminal and **f2.txt**.\
