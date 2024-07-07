@@ -6,7 +6,7 @@ class tree:
         self.left : tree = None
         self.right : tree = None
     
-# All members are a object , so we sort the list (array) by the 'num' property
+# All members are an object , so we sort the list (array) by the 'num' property
 def sortByProperty(a : list) -> None:
     size = len(a)
     for i in range(size):
